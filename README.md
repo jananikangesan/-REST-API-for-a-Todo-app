@@ -10,6 +10,9 @@
     * Read: Enable users to retrieve their own Todo items.
     * Update: Permit users to modify existing Todo items.
     * Delete: Allow users to remove Todo items
+    * Sorting: Allow users to sort their Todo items by various criteria (e.g., due date,priority).
+    * Pagination: Implement pagination for large Todo lists to improve performance and user experience.
+    * Search: Enable users to search for Todo items based on keywords or other attributes.
 
 ### Tech stack
 1. Spring Boot is used for the API implementation
